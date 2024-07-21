@@ -7,3 +7,7 @@ Features:
 - Fast dial the 10 most recent contacts
 - Prompt save dialog to protect against accidental changes
 
+<br>
+
+![alt text](<screenshots/Screenshot 1.webp>)
+![alt text](<screenshots/Screenshot 2.webp>)
